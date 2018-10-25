@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1540509684 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\projeto final\projeto\src\graph.cpp
+	"Graph.h"
+	"readmatrix.h"
+	<vector>
+	<algorithm>
+	<limits.h>
+
+1540510051 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\projeto final\projeto\include\graph.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1540408787 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\projeto final\projeto\include\readmatrix.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1540509608 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\projeto final\projeto\main.cpp
+	<iostream>
+	"Graph.h"
+
